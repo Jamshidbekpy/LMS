@@ -1,0 +1,71 @@
+
+    {
+        "material-icon-theme.folders.customClones": [
+          {
+            "name": "users-auth",
+            "base": "admin",
+            "color": "blue-500",
+            "lightColor": "blue-700",
+            "folderNames": ["accounts"],
+            "rootFolderNames": ["apps"]
+          },
+          {
+            "name": "courses-management",
+            "base": "class",  
+            "color": "orange-500",
+            "lightColor": "orange-700",
+            "folderNames": ["courses"],
+            "rootFolderNames": ["apps"]
+          },
+          
+          {
+            "name": "students-progress",
+            "base": "lib",  
+            "color": "cyan-900",
+            "lightColor": "cyan-600",
+            "folderNames": ["exams"],
+            "rootFolderNames": ["apps"]
+          },
+          {
+            "name": "payments-system",
+            "base": "cart",
+            "color": "blue-900",
+            "lightColor": "green-600",
+            "folderNames": ["payments"],
+            "rootFolderNames": ["apps"]
+          },
+          {
+            "name": "reviews-feedback",
+            "base": "star",
+            "color": "cyan-800",
+            "lightColor": "cyan-700",
+            "folderNames": ["reviews"],
+            "rootFolderNames": ["apps"]
+          },
+          {
+            "name": "orders-management",
+            "base": "cart",  
+            "color": "pink-800",
+            "lightColor": "pink-700",
+            "folderNames": ["orders"],
+            "rootFolderNames": ["apps"]
+          },
+          {
+            "name": "certificates-awards",
+            "base": "certificate",
+            "color": "lime-800",
+            "lightColor": "lime-700",
+            "folderNames": ["certificates"],
+            "rootFolderNames": ["apps"]
+          },
+          {
+            "name": "notifications-alerts",
+            "base": "event",
+            "color": "amber-800",
+            "lightColor": "amber-600",
+            "folderNames": ["notifications"],
+            "rootFolderNames": ["apps"]
+          }
+        ]
+      }
+      
